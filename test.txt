@@ -1,1 +1,2 @@
-pierwszy comit
+pierwszy commit
+nowy commit zatrzymanie aprove
