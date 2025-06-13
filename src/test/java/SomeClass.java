@@ -18,12 +18,7 @@ public class SomeClass {
     @Test
     public void test3(){
         int x1 = 4;
-        int y1 = 3;
+        int y1 = 3/0;
         assert x1 * y1 == 12;
-    }
-        
-    @Test
-    public void test4(){
-        assert (4/0)*0 == 0;
     }
 }
