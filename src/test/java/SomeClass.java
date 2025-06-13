@@ -18,7 +18,7 @@ public class SomeClass {
     @Test
     public void test3(){
         int x1 = 4;
-        int y1 = 3/0;
+        int y1 = 3;
         assert x1 * y1 == 12;
     }
 }
