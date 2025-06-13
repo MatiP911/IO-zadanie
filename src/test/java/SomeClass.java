@@ -21,4 +21,9 @@ public class SomeClass {
         int y1 = 3;
         assert x1 * y1 == 12;
     }
+        
+    @Test
+    public void test4(){
+        assert (4/0)*0 == 0;
+    }
 }
